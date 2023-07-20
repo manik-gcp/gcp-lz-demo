@@ -38,7 +38,7 @@ labels={"twproject":"tw_invt_india_empc_sd"}
 project_owners=["prachmanik7@gmail.com"]
 
 # * The Project new service account ID.
-svc_account_id="tf-svc-account-mk1"
+svc_account_id="tf-svc-account-mk"
 
 # * The location of the default GCS bucket.
 bucket_location="asia-south2"
